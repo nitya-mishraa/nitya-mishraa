@@ -1,5 +1,9 @@
 ## <div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Shantell+Sans&weight=600&size=30&duration=7&pause=7000000&color=E4A15C&repeat=false&width=455&height=45&lines=Hey+there%2C+I+am+Nitya+Mishra" alt="Greetings" /></a></div>
-<img align="right" src="https://github.com/nitya-mishraa/nitya-mishraa/blob/main/assets/pfpgif.gif" width="325" alt="Nitya's pfp gif" />
+
+<p align="center">
+  <img width="250" src="https://github.com/nitya-mishraa/nitya-mishraa/blob/main/assets/pfpgif.gif">
+</p>
+
 <details>
   <summary><a><img src="https://cdn3.emoji.gg/emojis/295211-kurumacool.gif" width="36px" height="36px" alt="nitya-skills"></a> <h2 style="font-family: Helvetica">What I bring to the Table</h2></summary>
  <table>
