@@ -1,11 +1,30 @@
-## <div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Shantell+Sans&weight=600&size=30&duration=7&pause=7000000&color=E4A15C&repeat=false&width=455&height=45&lines=Hey+there%2C+I+am+Nitya+Mishra" alt="Greetings" /></a></div>
+<div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Shantell+Sans&size=30&duration=7&pause=7000000&color=E4A15C&repeat=false&width=455&height=45&lines=Hey+there%2C+I+am+Nitya+Mishra!" alt="Greetings" /></a></div>
 
-<p align="center">
-  <img width="250" src="https://github.com/nitya-mishraa/nitya-mishraa/blob/main/assets/pfpgif.gif">
+<p align="left">
+  <img width="350px" height="350px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZoZ2d4emtoaGxxaHcwb3B1ZDVnMW9mcWs3NngyeHczbzlmbjRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HsZLu7Ofrv5SfySjFc/giphy.gif" align="right" style"margin-left: 20px;">
 </p>
 
+### <p> A Glimpse into Me:</p>
+<samp>➜ I'm a **CS Undergrad** student </samp>
+
+<samp>➜ I'm an **AI enthusiast** who loves exploring new tools </samp>
+
+<samp>➜ I build **AI-powered** solutions that solves real-world problems </samp>
+
+<samp>➜ I work with: **Machine Learning** & **Generative AI** </samp>
+
+<samp>➜ Occasionally, I also make **Designs** </samp>
+
+<samp>➜ Fun fact: **Chai runs in my system** </samp>
+
+<br>
+
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdonityamishra@gmail.com "Connect w/ me via Email")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nitya_mishraa_/ "Connect w/ me on Instagram")
+<img src="https://komarev.com/ghpvc/?username=nitya-mishraa&label=Profile%20views&color=948979&style=flat" alt="Github Profile views"/>
+
 <details>
-  <summary><a><img src="https://cdn3.emoji.gg/emojis/295211-kurumacool.gif" width="36px" height="36px" alt="nitya-skills"></a> <h2 style="font-family: Helvetica">What I bring to the Table</h2></summary>
+  <summary><h2>What I bring to the Table</h2></summary>
  <table>
     <tr>
       <th>Programming Languages</th>
@@ -41,3 +60,5 @@
     </tr>
   </table>
   </details>
+
+<p align="right"><sup align="right"> Crafted by <a href="https://github.com/sauravpandeyy">@sauravpandeyy</a></sup></p>
