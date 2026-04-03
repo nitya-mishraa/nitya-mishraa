@@ -60,5 +60,3 @@
     </tr>
   </table>
   </details>
-
-<p align="right"><sup align="right"> Crafted by <a href="https://github.com/sauravpandeyy">@sauravpandeyy</a></sup></p>
