@@ -15,7 +15,7 @@
 
 <samp>➜ Occasionally, I also make **Designs** </samp>
 
-<samp>➜ Fun fact: **Chai runs in my system**<img src="https://github.com/nitya-mishraa/nitya-mishraa/blob/main/assets/mychai.gif" width="24px" height="24px" alt="chai"></samp>
+<samp>➜ Fun fact: **Chai runs in my system** </samp>
 
 <br>
 
